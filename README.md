@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emmanuelczar
 - 👀 I’m interested in data analytics, data engineering, and automation
-- 🌱 I’m currently Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on some data analytics project using real world data sets
 - 📫 Reach me thru my linkedin account https://www.linkedin.com/in/emmanuelczarpascua/
 
